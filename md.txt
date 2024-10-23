@@ -1,0 +1,13 @@
+NavBar
+├── Desktop View
+│   ├── Logo
+│   ├── Search Bar
+│   ├── Navigation Links
+│   ├── Notifications
+│   └── Profile Dropdown
+└── Mobile View
+    ├── Logo
+    ├── Search Toggle
+    ├── Menu Toggle
+    ├── Search Bar (expandable)
+    └── Menu (expandable)
